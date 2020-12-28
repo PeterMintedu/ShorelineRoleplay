@@ -1,17 +1,13 @@
 ---
-name: Suggestion
-about: Suggest a feature.
+name: Peter Mintedu
+about: Knocking people out
 title: ''
 labels: Suggestion
 assignees: ''
 
 ---
+My suggestion is that when someone punches you the amount of times to kill you to get knocked out for like 2 minutes instead and when someone hits you with a gun so you get knocked out too.
 
-**What is your suggestion?**
-[a thorough description for your suggestion *delete line to answer*]
 
-Is your suggestion related to a current issue?
-[if yes then elaborate if no leave blank *delete line to answer*]
 
-**Other info**
-[any other info? *delete this line to answer*]
+
